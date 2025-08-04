@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=workstead-nihal&label=Profile%20views&color=0e75b6&style=flat" alt="workstead-nihal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=workstead-nihal" alt="workstead-nihal" /></a> </p>
-
 - 🔭 I’m currently working on **N3ON-TECH**
 
 - 📫 How to reach me **workstead.nihal@gmail.com**
