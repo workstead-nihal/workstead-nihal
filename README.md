@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **N3ON-TECH**
 
-- 📫 Reach me at**workstead.nihal@gmail.com**
+- 📫 Reach me at **workstead.nihal@gmail.com**
 
 - ⚡ Fun fact **I am into ANIME**
 
