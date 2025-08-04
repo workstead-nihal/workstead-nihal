@@ -9,11 +9,6 @@
 
 - ⚡ Fun fact **I am into ANIME**
 
-
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workstead-nihal&show_icons=true&locale=en&layout=compact" alt="workstead-nihal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=workstead-nihal&show_icons=true&locale=en" alt="workstead-nihal" /></p>
@@ -28,11 +23,3 @@
 <a href="https://www.leetcode.com/workstead-nihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="workstead-nihal" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/T7n7zvrGww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/T7n7zvrGww" height="30" width="40" /></a>
 </p>
-
-<p>
- ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
- - C o m m i n g - S o o n -
-<!-- BLOG-POST-LIST:END -->
-</p>
-
