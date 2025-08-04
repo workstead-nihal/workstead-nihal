@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am into ANIME**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workstead-nihal&show_icons=true&locale=en&layout=compact" alt="workstead-nihal" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=workstead-nihal&show_icons=true&locale=en&layout=compact" alt="workstead-nihal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=workstead-nihal&show_icons=true&locale=en" alt="workstead-nihal" /></p>
 
