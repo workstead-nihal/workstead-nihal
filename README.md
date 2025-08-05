@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihal</h1>
-<h3 align="center">A passionate student from INDIA.</h3>
+<h3 align="center">A passionate student from INDIA.</h3> <p align="right"> <img src="https://komarev.com/ghpvc/?username=workstead-nihal&label=Profile%20views&color=0e75b6&style=flat" alt="workstead-nihal" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=workstead-nihal&label=Profile%20views&color=0e75b6&style=flat" alt="workstead-nihal" /> </p>
+
 
 - 🔭 I’m currently working on **N3ON-TECH**
 
